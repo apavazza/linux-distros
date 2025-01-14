@@ -5,3 +5,11 @@
 # Popularity analysis of Linux distributions
 
 [Jupyter notebook](linux_distros.ipynb)
+
+Models and methods used:
+- Linear Regression
+- ARIMA
+- SARIMAX
+- K-Means Clustering
+- Random Forest Regression
+- Principal Component Analysis
