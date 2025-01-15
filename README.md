@@ -11,5 +11,5 @@ Models and methods used:
 - ARIMA
 - SARIMAX
 - K-Means Clustering
-- Random Forest Regression
 - Principal Component Analysis
+- Random Forest Regression
