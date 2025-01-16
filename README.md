@@ -9,6 +9,7 @@
 Models and methods used:
 - Linear Regression
 - ARIMA
+- Autocorrelation
 - SARIMAX
 - K-Means Clustering
 - Principal Component Analysis
